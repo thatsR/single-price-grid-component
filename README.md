@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/thatsR/single-price-grid-component.git)
-- Live Site URL: (https://thatsr.github.io/FM-product-preview-card-component/)
+- Live Site URL: (https://thatsr.github.io/single-price-grid-component)
 
 ## My process
 
